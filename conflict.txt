@@ -1,0 +1,2 @@
+LINE 1 changed by B
+LINE2
